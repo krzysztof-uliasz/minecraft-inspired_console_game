@@ -38,7 +38,7 @@ Inventory behaviour, adding items.
 \
 <img src="screenshots/inventory_behaviour.png" alt="inventory" width="800"/>
 
-This is what happens when you mine bedrock.
+This is what happens when you try to mine bedrock.
 \
 <img src="screenshots/mining_bedrock.png" alt="this is what happens when you try to mine bedrock" width="800"/>
 ## Technologies Used
