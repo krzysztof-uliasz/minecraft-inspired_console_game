@@ -1,7 +1,7 @@
 # MINECRAFT-INSPIRED 2D CONSOLE-BASED "GAME" 
 
 ## Overview
-The goal of this project was to grasp the basics of Java classes, inheritance, interfaces and polymorphism by creating a simple console-based game inspired by Minecraft. The Player can interact with the game by typing various commands in the console, such us move around the map or pick up items.  
+The goal of this project was to grasp the basics of Java classes, inheritance, interfaces and polymorphism by creating a simple console-based game inspired by Minecraft. The Player can interact with the game by typing various commands in the console, such us moving around the map or picking up items.  
 
 ## Table of Contents
 - [Detailed Description](#detailed-description)
